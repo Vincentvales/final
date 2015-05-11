@@ -1,7 +1,7 @@
 console.log('sketch4.js is loaded');
 
 var birds = [];
-var birdNumber =200;
+var birdNumber =800;
 
 
 function setup() {
