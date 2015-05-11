@@ -1,0 +1,115 @@
+p {
+    font-weight: 400;
+}
+
+.orange {
+    color: #F42300;
+}
+/**************about page nav******************/
+.bg-white{
+   
+    padding: 0px;
+    margin top:85px;
+}
+
+
+
+
+
+
+/***********************navbar and tagline*******************/
+
+.navbar {
+    position: absolute;
+    z-index: 1000;
+    background-color: transparent;
+    border: none;
+    right: 10;
+    padding: 1em;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    border-bottom: solid 2px #F42300;
+    border-bottom-color: #F42300;
+    padding-bottom: 4px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #F42300;
+}
+
+.navbar-default .navbar-collapse {
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #F42300;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover {
+    border-color: #F42300;
+    background-color: #F42300;
+}
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #F42300;
+}
+
+#tagline {
+    position: absolute;
+    width: 100vw;
+    padding: 5em;
+    z-index: 100;
+}
+/***********************home page**************************/
+.bg-image4 {
+    margin: 15px 0;
+    background-image: url(spider.jpg);
+    height: 100vh;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+
+#bg-text {
+    /*    background-color: rgba(128, 156, 152, 0.3); */
+    
+    margin-top: 1em;
+    padding: 4em;
+}
+/**************************about page***************************/
+.bg-image3 {
+    margin: 15px 0;
+    background-image: url(dead.jpg);
+    height: 100vh;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+
+
+ 
+
+/**************************contact page*************************/
+.bg-image2 {
+    margin: 15px 0;
+    background-image: url(dare.jpg);
+    height: 100vh;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    left:0;
+}
+#test-animation{
+  margin-top: 0px;  
+    width: 100vw;
+}
+
+   
